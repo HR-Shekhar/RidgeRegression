@@ -16,8 +16,7 @@ This project compares Ridge Regression models trained manually vs scikit-learn i
 
 Compare both models using real-time input:
 
-🔗 [Launch Ridge App](https://your-ridge-app.streamlit.app)  
-(Update with your app link)
+🔗 [Launch Ridge App](https://insurancecharge.streamlit.app)  
 
 ## 📁 Files
 
